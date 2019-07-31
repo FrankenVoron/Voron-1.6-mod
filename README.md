@@ -9,4 +9,4 @@ This mod is fully unsupported by the Voron Design team, support and discussion w
 
 [V1.6 Mod Fusion 360 Assembly (300^3)](https://a360.co/2MlttV1)
 
-![V1.6 Mod](https://i.imgur.com/0loEuvH.png)
+![V1.6 Mod](https://i.imgur.com/REc2A0J.png)
