@@ -5,7 +5,7 @@ This github page is being updated and developed. Please note that all of these S
 
 This mod is fully unsupported by the Voron Design team, support and discussion will be in a separate Discord group, link to be populated in the future.
 
-Default size is 300x300x340mm, reducing it down to 250mm saves only about $25.
+Default size is 300x300x340mm, reducing it down to 250mm saves only about $25. Total BOM cost is around $750-800.
 
 [V1.6 Mod BOM Link (In Process, NOT FINAL)](https://docs.google.com/spreadsheets/d/1ig14b1j8-F_122QWTeGj5dSmB8Jl30DImUAANSiHRPc/edit?usp=sharing)
 
