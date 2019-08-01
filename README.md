@@ -7,7 +7,23 @@ This mod is fully unsupported by the Voron Design team, support and discussion w
 
 Default size is 300x300x340mm, reducing it down to 250mm saves only about $25. 
 
-Total BOM cost is around $750-800, which sits it firmly between the Hypercube (~$600?) and the Railcore II 300ZL (~$1300).
+Total BOM cost is around $750-800, which sits it between the Hypercube ($550) and the Railcore II 300ZL ($1300). 
+
+Advantages over the HEVO:
+-Cast aluminum bed (vs. PCB bed) -> much flatter, consistent bed surface
+-Linear rails for XY (vs. linear rods) -> less sag
+-AC heated bed (lower current to the bed, less load on the 24V power supply, quieter)
+-SKR 1.3 board with silent TMC2209 drivers vs. RAMPS board and loud A4988 drivers
+-Integrated Octoprint remote web control through Raspberry Pi
+-True 32 bit board with Klipper control
+-Mobius 3 extruder with Bondtech gears vs. Titan extruder (higher torque, grabs filament from both sides)
+-Silicone wiring
+-Enclosed build volume
+
+Advantages over the Railcore:
+-Significantly cheaper
+-Easily enclosable
+-No risk of catching hands or tools on CoreXY belts
 
 [V1.6 Mod BOM Link (In Process, NOT FINAL)](https://docs.google.com/spreadsheets/d/1ig14b1j8-F_122QWTeGj5dSmB8Jl30DImUAANSiHRPc/edit?usp=sharing)
 
