@@ -7,7 +7,7 @@ This mod is fully unsupported by the Voron Design team, support and discussion w
 
 Default size is 300x300x340mm, reducing it down to 250mm saves only about $25. 340mm is due to lack of availability of 360mm linear steppers.
 
-Total BOM cost is around $750-800, which sits it between the Hypercube ($550) and the Railcore II 300ZL ($1300). 
+Total BOM cost is around $750-800, which sits it between the Hypercube ($550), BLV MGN Cube ($1000) and the Railcore II 300ZL ($1300). 
 
 Advantages over the HEVO:
     
