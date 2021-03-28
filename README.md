@@ -1,4 +1,9 @@
-# Voron-1.6-mod
+This modification has been transformed to the official Voron V1.8! https://github.com/VoronDesign/Voron-1/tree/Voron1.8
+
+The files here are no longer maintained but will be kept for reference.
+
+# Voron-1.6-mod (Depreciated)
+
 It's the Voron V1.6, but better! Now with linear rails for XY and a fully enclosable design.
 
 This github page is being updated and developed. Please note that all of these STLs are derived from the Voron Design V1.6 and V2.1 printers--any mods present in this folder are small changes to the existing Voron Design STLs to support changing the linear rods of V1.6 to linear MGN9H rails similar to how V2.1's gantry is.
